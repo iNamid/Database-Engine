@@ -19,19 +19,13 @@ A lightweight, console-based database program written in C++ that allows users t
 
 Follow these steps to set up and run the program:
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
-   ```
-
-2. **Compile the Program**  
+1. **Compile the Program**  
    Use the following command to compile the source code:  
    ```bash
    g++ -std=c++17 simple_database.cpp -o simple_database
    ```
 
-3. **Run the Program**  
+2. **Run the Program**  
    Execute the compiled program with:  
    ```bash
    ./simple_database
