@@ -1,9 +1,8 @@
 # Database-Engine
-Here's a well-formatted **README.md** for your GitHub repository:
 
 ---
 
-# **Simple Database Program**
+# ** Database Engine Program**
 
 A lightweight, console-based database program written in C++ that allows users to create, manage, and manipulate simple records stored in a CSV file.  
 
