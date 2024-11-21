@@ -2,8 +2,6 @@
 
 ---
 
-# ** Database Engine Program**
-
 A lightweight, console-based database program written in C++ that allows users to create, manage, and manipulate simple records stored in a CSV file.  
 
 ---
